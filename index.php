@@ -199,8 +199,8 @@
                       Branding and <br />Identity Design
                     </h5>
                     <p class="mil-light-soft mil-mb-30">
-                      Our creative agency is a team of professionals focused
-                      on helping your brand grow.
+                    Crafting distinctive and cohesive brand identities that resonate with your target audience and
+                    elevate your market presence.
                     </p>
                     <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                   </a>
@@ -209,8 +209,8 @@
                   <a href="service.php" class="mil-service-card-sm mil-up">
                     <h5 class="mil-muted mil-mb-30">Packaging design</h5>
                     <p class="mil-light-soft mil-mb-30">
-                      Our creative agency is a team of professionals focused
-                      on helping your brand grow.
+                    Designing visually striking and functional packaging solutions that protect your products and
+                    captivate consumers.
                     </p>
                     <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                   </a>
@@ -219,8 +219,8 @@
                   <a href="service.php" class="mil-service-card-sm mil-up">
                     <h5 class="mil-muted mil-mb-30">Photography</h5>
                     <p class="mil-light-soft mil-mb-30">
-                      Our creative agency is a team of professionals focused
-                      on helping your brand grow.
+                    Capturing high-quality, professional images that enhance your brand's visual appeal and
+                    storytelling.
                     </p>
                     <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                   </a>
@@ -229,11 +229,11 @@
                   <a href="service.php" class="mil-service-card-sm mil-up">
                     <h5 class="mil-muted mil-mb-30">
                       Printing and <br />
-                      production solutions
+                      Production
                     </h5>
                     <p class="mil-light-soft mil-mb-30">
-                      Our creative agency is a team of professionals focused
-                      on helping your brand grow.
+                    Delivering vibrant, high-quality print solutions that reflect your brand’s professionalism and
+                    attention to detail.
                     </p>
                     <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                   </a>
@@ -245,7 +245,7 @@
         <!-- services end -->
 
         <!-- team -->
-        <section>
+        <!-- <section>
           <div class="container mil-p-120-30">
             <div class="row justify-content-between align-items-center">
               <div class="col-lg-5 col-xl-4">
@@ -418,7 +418,7 @@
               </div>
             </div>
           </div>
-        </section>
+        </section> -->
         <!-- team end -->
 
         <!-- reviews -->
@@ -577,17 +577,72 @@
             <div class="swiper-container mil-infinite-show mil-up">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <a href="#." class="mil-partner-frame" style="width: 60px"><img src="img/partners/1.svg" alt="logo" /></a>
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-1.png" alt="logo" /></a>
                 </div>
                 <div class="swiper-slide">
-                  <a href="#." class="mil-partner-frame" style="width: 100px"><img src="img/partners/2.svg" alt="logo" /></a>
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-2.png" alt="logo" /></a>
                 </div>
                 <div class="swiper-slide">
-                  <a href="#." class="mil-partner-frame" style="width: 60px"><img src="img/partners/1.svg" alt="logo" /></a>
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-3.png" alt="logo" /></a>
                 </div>
                 <div class="swiper-slide">
-                  <a href="#." class="mil-partner-frame" style="width: 100px"><img src="img/partners/2.svg" alt="logo" /></a>
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-4.png" alt="logo" /></a>
                 </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-5.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-6.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-7.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-8.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-9.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-10.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-11.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-12.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-13.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-14.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-15.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-16.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-17.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-18.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-19.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-21.png" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-22.jpg" alt="logo" /></a>
+                </div>
+                <div class="swiper-slide">
+                  <a href="#." class="mil-partner-frame" style="width: 150px"><img src="img/clients/cl-23.png" alt="logo" /></a>
+                </div>
+                
               </div>
             </div>
           </div>

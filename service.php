@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
     <meta name="description" content="" />
-  <meta name="keywords" content="" />
+    <meta name="keywords" content="" />
     <?php include 'include/header-links.php'; ?>
     <meta property="og:url" content="<?php echo $page_url ?>">
     <meta property="og:title" content="">
@@ -75,8 +75,13 @@
                         <div class="row justify-content-between">
                             <div class="col-lg-4 mil-relative mil-mb-90">
 
-                                <h4 class="mil-up mil-mb-30">Your <span class="mil-thin">Approach</span> <br>and <span class="mil-thin">Work Specifics</span></h4>
-                                <p class="mil-up mil-mb-30">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, rerum mollitia? Magni ullam minus tempora repudiandae neque quis omnis iusto cumque placeat nemo, fugit illo.</p>
+                                <h4 class="mil-up mil-mb-30">Our <span class="mil-thin">Approach</span> <br>and <span class="mil-thin">Work Specifics</span></h4>
+                                <p class="mil-up mil-mb-30">At Full Circle Solutions, we pride ourselves on delivering innovative and impactful packaging,
+                                    branding, photography and printing solutions. Our meticulous approach combines creative
+                                    design with practical functionality, ensuring each project not only meets but exceeds client
+                                    expectations. From initial concept to final production, our diverse team of experts
+                                    collaborates closely with clients to bring their vision to life, focusing on every detail to
+                                    enhance brand presence and drive success in the market.</p>
                                 <div class="mil-up">
                                     <a href="portfolio.php" class="mil-link mil-dark mil-arrow-place">
                                         <span>View works</span>
@@ -159,7 +164,7 @@
                 <!-- service end -->
 
                 <!-- prices -->
-                <section class="mil-soft-bg">
+                <!-- <section class="mil-soft-bg">
                     <div class="mi-invert-fix">
                         <div class="container mil-p-120-120">
                             <div class="mil-center">
@@ -248,7 +253,7 @@
 
                         </div>
                     </div>
-                </section>
+                </section> -->
                 <!-- prices end -->
 
                 <!-- other services -->
